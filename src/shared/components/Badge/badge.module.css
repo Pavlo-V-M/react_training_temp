@@ -1,0 +1,28 @@
+.wrap {
+  height: 28px;
+  width: 49px;
+  background-color: #27AE60;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.4s;
+}
+
+.wrap__def {
+  height: 28px;
+  width: 43px;
+  background-color: #E81E1E;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.4s;
+}
+
+.rectangle {
+  color: #FFFFFF;
+  font-family: Inter, sans-serif;
+  font-weight: medium;
+  text-transform: uppercase;
+}/*# sourceMappingURL=badge.module.css.map */
