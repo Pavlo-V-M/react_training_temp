@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_training_temp=self.webpackChunkreact_training_temp||[]).push([[482],{5482:(e,t,r)=>{r.r(t),r.d(t,{default:()=>s});var n=r(9846),a=r(579);const s=()=>(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(n.A,{text:"We currently work at this React Query Page"})})},9846:(e,t,r)=>{r.d(t,{A:()=>a});var n=r(579);const a=e=>{let{text:t}=e;return(0,n.jsx)(n.Fragment,{children:(0,n.jsxs)("h2",{children:[t," \ud83d\udc7e ..."]})})}}}]);
+//# sourceMappingURL=482.edded06e.chunk.js.map

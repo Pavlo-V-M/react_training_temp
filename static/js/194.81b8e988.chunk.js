@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_training_temp=self.webpackChunkreact_training_temp||[]).push([[194],{9194:(e,t,a)=>{a.r(t),a.d(t,{default:()=>n});a(5043);var c=a(579);const n=()=>(0,c.jsx)("h1",{children:"Welcome to the Redux Study App!"})}}]);
+//# sourceMappingURL=194.81b8e988.chunk.js.map

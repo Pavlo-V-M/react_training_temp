@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_training_temp=self.webpackChunkreact_training_temp||[]).push([[872],{5872:(e,t,r)=>{r.r(t),r.d(t,{default:()=>a});var n=r(9846),s=r(579);const a=()=>(0,s.jsx)(s.Fragment,{children:(0,s.jsx)(n.A,{text:"We currently work at this Redux Persist Page"})})},9846:(e,t,r)=>{r.d(t,{A:()=>s});var n=r(579);const s=e=>{let{text:t}=e;return(0,n.jsx)(n.Fragment,{children:(0,n.jsxs)("h2",{children:[t," \ud83d\udc7e ..."]})})}}}]);
+//# sourceMappingURL=872.38b1f9ba.chunk.js.map
